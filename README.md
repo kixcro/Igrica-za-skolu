@@ -1,1 +1,1 @@
-# Igrica-za-skolu
+# Igra za skolu
