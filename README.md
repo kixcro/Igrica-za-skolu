@@ -1,1 +1,3 @@
 # Igra za skolu
+(Name) je igra inspirirana idejama učenicima nižih razreda OŠ kralja Tomislava Udbina uz pomoć učiteljice informatike. Na igri je radilo 10 učenika dodatne nastavne iz informatike i učiteljica informatike. Učenici su podijeljeni u dva tima po 5 učenika. Prvi tim učenika radio je na dizajnu likova (__characters__) koji se pojavljuju u igri, a drugi tim učenika radio je na dizajnu terena (__terrain__). Učenici su međusobno razmjenjivali ideje te ih prepričavali učiteljici na tjednim sastancima (na satu dodatne nastave).
+(Name) je zamišljena kao 2D platformer (__2D platformer__) sa bočnim kretanjem ekrana (__sidescroller__), i realizirana na isti način. Dijelovi igre su napravljeni u alatu Aesprite, te je stil igre (__artstyle__) Pixelart.
